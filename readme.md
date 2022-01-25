@@ -1,0 +1,1 @@
+Go / NextJS app info will go here!
